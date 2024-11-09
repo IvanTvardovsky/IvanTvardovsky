@@ -21,7 +21,7 @@
 
 ### :man_technologist: About me :
 
-I am a **Backend Golang** developer with some experience working with a variety of other programming languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Moscow**
+I am a **Backend Golang** developer with experience working as **DevOps** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Moscow**
 
 ### :hammer_and_wrench: Languages and Tools :
 
